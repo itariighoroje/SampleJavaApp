@@ -2,8 +2,7 @@
   - animal: 
     - type: lamb
     - size: little
-    - coat:
-      - "fleece"
+    - fleece:
       - "white as snow"
     - behavior: patient
     - location:
