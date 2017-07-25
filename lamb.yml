@@ -1,0 +1,13 @@
+- mary:
+  - animal: 
+    - type: lamb
+    - size: little
+    - coat:
+      - fleece
+      - "white as snow"
+    - behavior: patient
+    - location:
+      - allowed:
+        - "everywhere mary goes"
+      - notallowed:
+        - "school"
